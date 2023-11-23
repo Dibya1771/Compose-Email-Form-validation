@@ -1,7 +1,11 @@
 # Compose Email Form with validation<br>
 ###### This is a user-friendly compose email form crafted with HTML and CSS, enriched with JavaScript for seamless validation. The form provides an intuitive interface for users to effortlessly compose emails. The inclusion of JavaScript ensures that all entered information is validated, guaranteeing a smooth and error-free user experience.  
 
-## Sample output:
+## Sample outputs:  
+## Demo video:  
+https://github.com/Dibya1771/Compose-Email-Form-validation/assets/108383867/78858dab-d4bf-4615-8bd8-99759db664c0
+
+## Sample Screenshots:  
 ![image](https://github.com/Dibya1771/Compose-Email-Form-validation/assets/108383867/16d2b31a-acae-4deb-818d-c967559f5e52)  
 ### •	1st Input field (Here we can take only 1 email as input) => Sender email•	1st Input field (Here we can take only 1 email as input) => Sender email  
 ![image](https://github.com/Dibya1771/Compose-Email-Form-validation/assets/108383867/ee1422c7-5ed9-40bd-ae58-ce281871ce58) ![image](https://github.com/Dibya1771/Compose-Email-Form-validation/assets/108383867/faf31036-9c2e-4feb-90d1-f95a68c6b292)  
