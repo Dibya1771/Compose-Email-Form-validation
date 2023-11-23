@@ -2,7 +2,7 @@
 ###### This is a user-friendly compose email form crafted with HTML and CSS, enriched with JavaScript for seamless validation. The form provides an intuitive interface for users to effortlessly compose emails. The inclusion of JavaScript ensures that all entered information is validated, guaranteeing a smooth and error-free user experience.  
 
 ## Sample outputs:  
-## Demo video:  
+## Tutorial Video:  
 https://github.com/Dibya1771/Compose-Email-Form-validation/assets/108383867/78858dab-d4bf-4615-8bd8-99759db664c0
 
 ## Sample Screenshots:  
